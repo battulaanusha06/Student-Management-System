@@ -1,0 +1,6 @@
+1,Anu,19,B.Tech
+2,Divya,20,MBA
+3,Laxmi,20,MCA
+4,Maithri,20,BBA
+5,Komali,19,B.Tech
+6,Pujitha,20,BBA
